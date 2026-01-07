@@ -1,0 +1,66 @@
+[
+  {
+    "conditions": ["P3", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K8", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K8", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K8", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K8", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, không phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K11", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn An Tea & Coffee."
+  }
+]

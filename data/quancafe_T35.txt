@@ -1,0 +1,98 @@
+[
+  {
+    "conditions": ["P3", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K1", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K3", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K3", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K3", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K3", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K6", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có góc làm việc hoặc đọc sách, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K6", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có góc làm việc hoặc đọc sách, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K6", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có góc làm việc hoặc đọc sách, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K6", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có góc làm việc hoặc đọc sách, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K8", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K8", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K8", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K8", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K11", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K5", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi cho trẻ em, có đồ ăn nhẹ và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K5", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi cho trẻ em, có phục vụ món chính và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K5", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi cho trẻ em, không cho phép mang thú cưng vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  },
+  {
+    "conditions": ["P3", "K5", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi cho trẻ em, không cho phép mang đồ ăn từ bên ngoài vào và có giá dưới 50.000 thì bạn nên chọn Nâu Coffee & Tea."
+  }
+]
