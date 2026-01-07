@@ -1,0 +1,62 @@
+[
+  {
+    "conditions": ["P6", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+  {
+    "conditions": ["P6", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+    {
+    "conditions": ["P6", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+    {
+    "conditions": ["P6", "K5", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+ {
+    "conditions": ["P6", "K5", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, không có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K5", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, không có khu vui chơi dành cho trẻ em, nhưng có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K8", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, thuộc loại cafe thư giản, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K8", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, thuộc loại cafe thư giản, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K8", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, thuộc loại cafe thư giản, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có view đẹp, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K10", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có sân vườn, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K10", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có sân vườn, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+{
+    "conditions": ["P6", "K10", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 9, có sân vườn, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Vườn của lá."
+  },
+]

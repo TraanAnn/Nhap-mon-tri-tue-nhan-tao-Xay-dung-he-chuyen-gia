@@ -1,0 +1,98 @@
+[
+  {
+    "conditions": ["P2", "K1", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K2", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ bơi, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K2", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ bơi, không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K2", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ bơi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K2", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ bơi, không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K5", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, không có khu vui chơi dành cho trẻ em, nhưng cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K5", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, không có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K5", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K5", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, không có khu vui chơi dành cho trẻ em, không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K7", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K7", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K7", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K7", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K9", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K11", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  },
+{
+    "conditions": ["P2", "K11", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Katfie Coffee & Tea."
+  }
+]

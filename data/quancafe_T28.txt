@@ -1,0 +1,82 @@
+[
+  {
+    "conditions": ["P2", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K3", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ cá Koi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K3", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ cá Koi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K3", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ cá Koi, nhưng có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K3", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có hồ cá Koi, nhưng không không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K7", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K7", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K7", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K7", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K10", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K10", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K10", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  },
+{
+    "conditions": ["P2", "K10", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Central Coffee."
+  }
+]

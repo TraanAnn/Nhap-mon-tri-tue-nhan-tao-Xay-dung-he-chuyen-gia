@@ -1,0 +1,98 @@
+[
+  {
+    "conditions": ["P1", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K1", "D2", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động từ 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K1", "D4", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K1", "D5", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D2", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang thú cưng vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D4", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K7", "D5", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, có đồ ăn nhẹ và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D2", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D4", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K9", "D5", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, có đồ ăn nhẹ và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D2", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang thú cưng vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D4", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  },
+{
+    "conditions": ["P1", "K11", "D5", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, có đồ ăn nhẹ và có giá dao động 50.000 đến 100.000 thì bạn nên chọn Én Coffee and Tea."
+  }
+]
