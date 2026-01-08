@@ -242,8 +242,17 @@ def on_cafe_select(event=None):
 
     result_text.config(state="normal")
     result_text.delete(1.0, tk.END)
+
+    #Tên quán
     result_text.insert(tk.END, f"🎯 {selected['name']}\n\n")
-    result_text.insert(tk.END, selected['desc'])
+
+    #Hiển thị tập luật đã chọn quán
+    conditions_str = " ^ ".join(selected['rule_conditions'])
+    result_text.insert(tk.END, f"🔍 Luật suy luận áp dụng:\n{conditions_str} → {selected['name']}\n\n")
+
+    if selected['desc'].strip():
+        result_text.insert(tk.END, selected['desc']) #in mô tả
+
     result_text.config(state="disabled")
     result_text.see(1.0)
 
@@ -356,19 +365,27 @@ def find():
 
         name = CAFE_NAMES.get(code, code)
 
+         # Tìm mô tả chi tiết khớp chính xác với conditions của luật này
+        # descs = DESCRIPTIONS_JSON.get(code, [])
+        # found_desc = "Không có mô tả chi tiết cho trường hợp này."
+        # for d in descs:
+        #     if set(d.get("conditions", [])) == set(r["conditions"]):
+        #         found_desc = d.get("description", "") + "\n"
+        #         break
+        # if found_desc == "Không có mô tả chi tiết cho trường hợp này.":
+        #     found_desc = f"Luật áp dụng: {' ^ '.join(r['conditions'])} -> {name}\n"
         descs = DESCRIPTIONS_JSON.get(code, [])
-        found_desc = "Không có mô tả chi tiết cho trường hợp này."
+        found_desc = ""
         for d in descs:
             if set(d.get("conditions", [])) == set(r["conditions"]):
                 found_desc = d.get("description", "") + "\n"
                 break
-        if found_desc == "Không có mô tả chi tiết cho trường hợp này.":
-            found_desc = f"Luật áp dụng: {' ^ '.join(r['conditions'])} -> {name}\n"
 
         cafe_data.append({
             "name": name,
             "code": code,
             "desc": found_desc,
+            "rule_conditions": r["conditions"], #Lưu conditions của luật ưu tiên để hiển thị
             "priority": len(r["conditions"])
         })
 
