@@ -1,0 +1,66 @@
+[
+  {
+    "conditions": ["P2", "K1", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, không có đồ ăn nhẹ và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, không có món chính và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K8", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, là quán cafe thư giãn, không có đồ ăn nhẹ và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K8", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, là quán cafe thư giãn, không có món chính và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K8", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, là quán cafe thư giãn, không cho phép mang thú cưng vào và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K8", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, là quán cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K9", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, không có đồ ăn nhẹ và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, không có món chính và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, không cho phép mang thú cưng vào và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K9", "D4", "G1"], 
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, không cho phép mang đồ ăn từ bên ngoài và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K11", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, không có đồ ăn nhẹ và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K11", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, không có món chính và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea."
+  },
+  {
+    "conditions": ["P2", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài và có giá nước từ dưới 50.000 thì bạn nên chọn 1996 Coffee & Tea"
+  }
+]

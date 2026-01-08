@@ -1,0 +1,66 @@
+[
+  {
+    "conditions": ["P3", "K7", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K7", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K7", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K7", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K5", "D2", "G1"], 
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K9", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K9", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  },
+  {
+    "conditions": ["P3", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Boss Coffee."
+  }
+]

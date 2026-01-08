@@ -1,0 +1,66 @@
+[
+  {
+    "conditions": ["P3", "K8", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K8", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có món chính và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K8", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K8", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K9", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có món chinh và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K9", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K9", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K1", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có món chính và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K1", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K1", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K4", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K94", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có khu vui chơi dành cho trẻ em, có món chính và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K4", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có khu vui chơi dành cho trẻ em, cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  },
+  {
+    "conditions": ["P3", "K4", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có khu vui chơi dành cho trẻ em, cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn KIM TEA."
+  }
+]
