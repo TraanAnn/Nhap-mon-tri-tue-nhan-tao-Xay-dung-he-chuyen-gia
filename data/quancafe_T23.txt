@@ -4,7 +4,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K1", "D3", "G1"],
+    "conditions": ["P3", "K1", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
@@ -16,7 +16,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K3", "D3", "G1"],
+    "conditions": ["P3", "K3", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
@@ -28,7 +28,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giản, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K8", "D3", "G1"],
+    "conditions": ["P3", "K8", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, thuộc loại cafe thư giản, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
@@ -40,7 +40,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K9", "D3", "G1"],
+    "conditions": ["P3", "K9", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
@@ -52,7 +52,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K10", "D3", "G1"],
+    "conditions": ["P3", "K10", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
@@ -64,7 +64,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
-    "conditions": ["P3", "K11", "D3", "G1"],
+    "conditions": ["P3", "K11", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thư CÀFE."
   },
   {
