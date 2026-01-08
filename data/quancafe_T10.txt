@@ -65,7 +65,7 @@
   },
   {
     "conditions": ["P6", "K10", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
   },
   {
     "conditions": ["P6", "K10", "D5", "G1"],
