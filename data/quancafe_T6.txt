@@ -1,0 +1,74 @@
+[
+  {
+    "conditions": ["P6", "K1", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K1", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K1", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K5", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không có khu vui chơi dành cho trẻ em, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K5", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không có khu vui chơi dành cho trẻ em, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K5", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không có khu vui chơi dành cho trẻ em, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K7", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K7", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K7", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K9", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K9", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K9", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K10", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K10", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K10", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K11", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, cho phép mang thú cưng vào, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K11", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, không có đồ ăn nhẹ, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  },
+  {
+    "conditions": ["P6", "K11", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, có món chính, có giá dao động từ 50.000 tới 100.000 thì bạn nên chọn Lan’s Coffee"
+  }
+]

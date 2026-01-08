@@ -1,0 +1,98 @@
+[
+  {
+    "conditions": ["P1", "K1", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không gian thoáng mát rộng rãi, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K1", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K1", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không gian thoáng mát rộng rãi, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K1", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không gian thoáng mát rộng rãi, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K3", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có hồ cá Koi, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K3", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có hồ cá Koi, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K3", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có hồ cá Koi, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K3", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1,có hồ cá Koi, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K5", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K5", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K5", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K5", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1,  không có khu vui chơi dành cho trẻ em, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K7", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe gia đình, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K7", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe gia đình, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K7", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe gia đình, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K7", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe gia đình, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K9", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K9", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K9", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K9", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K10", "D1", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, cho phép mang thú cưng vào, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K10", "D3", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, cho phép mang đồ ăn từ bên ngoài, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K10", "D6", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, không có đồ ăn nhẹ, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  },
+  {
+    "conditions": ["P1", "K10", "D7", "G2"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, có món chính, có giá dao động từ 50.000 đến 75.000  thì bạn nên chọn Thóc Café"
+  }
+]

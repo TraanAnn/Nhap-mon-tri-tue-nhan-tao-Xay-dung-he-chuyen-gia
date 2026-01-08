@@ -1,0 +1,50 @@
+[
+  {
+    "conditions": ["P6", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K1", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, không có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K1", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K4", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K4", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, có khu vui chơi dành cho trẻ em, không có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K4", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, có khu vui chơi dành cho trẻ em, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K7", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K7", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, không có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K7", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe gia đình, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K9", "D6", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  },
+  {
+    "conditions": ["P6", "K9", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "conditions": ["P3", "K1", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, không gian thoáng mát rộng rãi, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K1", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K1", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, không gian thoáng mát rộng rãi, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K1", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, không gian thoáng mát rộng rãi, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K2", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có hồ bơi, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K2", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có hồ bơi, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K2", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có hồ bơi, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K2", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có hồ bơi, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K4", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có khu vui chơi dành cho trẻ em, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K4", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K4", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K4", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, có khu vui chơi dành cho trẻ em, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K7", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, cafe gia đình, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K7", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, cafe gia đình, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K7", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, cafe gia đình, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K7", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, cafe gia đình, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K9", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, view đẹp, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K9", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, view đẹp, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K9", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, view đẹp, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K9", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, view đẹp, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K10", "D1", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, sân vườn, cho phép mang thú cưng vào, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K10", "D4", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, sân vườn, không cho phép mang đồ ăn từ bên ngoài, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K10", "D5", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, sân vườn, có đồ ăn nhẹ, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  },
+  {
+    "conditions": ["P3", "K10", "D7", "G3"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 4, sân vườn, có món chính, có giá dao động khoảng 100.000 thì bạn nên chọn Café 9H2O"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

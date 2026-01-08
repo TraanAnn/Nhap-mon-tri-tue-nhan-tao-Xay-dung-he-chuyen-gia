@@ -1,0 +1,113 @@
+[
+  {
+    "conditions": ["P6", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K1", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K1", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, không gian thoáng mát rộng rãi, có tổ chức Acoustics, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K8", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe thư giãn, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K8", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K8", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe thư giãn, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K8", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe thư giãn, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K8", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, cafe thư giãn, có tổ chức Acoustics, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K9", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K9", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, có tổ chức Acoustics, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K10", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K10", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, view đẹp, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K10", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K10", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K10", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, sân vườn, có tổ chức Acoustics, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, không cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K11", "D7", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  },
+  {
+    "conditions": ["P6", "K11", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 9, phòng máy lạnh, có tổ chức Acoustics, có giá dao động dưới 50.000 thì bạn nên chọn Café Lê Vy 2"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

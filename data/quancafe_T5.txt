@@ -1,0 +1,98 @@
+[
+  {
+    "conditions": ["P2", "K1", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, không gian thoáng mát rộng rãi, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K1", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, không gian thoáng mát rộng rãi, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, không gian thoáng mát rộng rãi, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K7", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, là cafe gia đình, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K7", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, là cafe gia đình, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K7", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, là cafe gia đình, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K7", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, là cafe gia đình, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K9", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3,  có view đẹp, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K9", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có view đẹp, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có view đẹp, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có view đẹp, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K10", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3,  có sân vườn, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K10", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có sân vườn, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K10", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có sân vườn, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K10", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có sân vườn, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K11", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có phòng máy lạnh, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K11", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có phòng máy lạnh, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có phòng máy lạnh, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K11", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có phòng máy lạnh, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K12", "D1", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có chỗ decor chụp ảnh theo concept, cho phép mang thú cưng vào, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K12", "D3", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có chỗ decor chụp ảnh theo concept, cho phép mang đồ ăn từ bên ngoài, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K12", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có chỗ decor chụp ảnh theo concept, có đồ ăn nhẹ, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  },
+  {
+    "conditions": ["P2", "K12", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 3, có chỗ decor chụp ảnh theo concept, không có món chính, có giá dao động dưới 50.000 thì bạn nên chọn Deliverse (Quán trà An Nhiên)"
+  }
+]

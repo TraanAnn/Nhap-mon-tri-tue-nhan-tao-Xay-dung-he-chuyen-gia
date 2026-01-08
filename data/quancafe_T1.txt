@@ -1,0 +1,142 @@
+[
+  {
+    "conditions": ["P1", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K1", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có không gian thoáng mát rộng rãi, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K1", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, có không gian thoáng mát rộng rãi, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K5", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em và không cho phép mang thú cưng vào, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K5", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1,  không có khu vui chơi dành cho trẻ em và không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K5", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K5", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K5", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, không có khu vui chơi dành cho trẻ em, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K6", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe đọc sách và không cho phép mang thú cưng vào, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K6", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe đọc sách và không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea."
+  },
+  {
+    "conditions": ["P1", "K6", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe đọc sách, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K6", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe đọc sách, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K6", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, cafe đọc sách, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp và không cho phép mang thú cưng vào, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K9", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp và không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K9", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K9", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, view đẹp, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K10", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn và không cho phép mang thú cưng vào, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K10", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn và không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K10", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K10", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K10", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K11", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, sân vườn, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K11", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, phòng máy lạnh và không cho phép mang đồ ăn từ bên ngoài vào có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K11", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, phòng máy lạnh, có đồ ăn nhẹ, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K11", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, phòng máy lạnh, không có món chính, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  },
+  {
+    "conditions": ["P1", "K11", "D9", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở phường 1, phòng máy lạnh, có tổ chức Acostics, có giá dao động từ 30.000 đến 50.000 thì bạn nên chọn Lai Coffee & Tea"
+  }
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
