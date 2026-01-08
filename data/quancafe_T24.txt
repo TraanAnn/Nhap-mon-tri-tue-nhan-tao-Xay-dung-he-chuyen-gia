@@ -3,71 +3,71 @@
     "conditions": ["P1", "K1", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K1", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K1", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có không gian thoáng mát rộng rãi, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K7", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K7", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K7", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, thuộc loại cafe gia đình, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K9", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K9", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K9", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có view đẹp, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K10", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có sân vườn, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K10", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có sân vườn, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K10", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có sân vườn, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K11", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K11", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K11", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có phòng máy lạnh, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K12", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có chỗ decor chụp ảnh theo concept, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K12", "D4", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có chỗ decor chụp ảnh theo concept, nhưng không cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   },
-{
+  {
     "conditions": ["P1", "K12", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 1, có chỗ decor chụp ảnh theo concept, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn 1985 Coffee & Tea."
   }

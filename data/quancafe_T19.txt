@@ -32,7 +32,7 @@
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
   },
   {
-    "conditions": ["P3", "K3", "D"2, "G2"],
+    "conditions": ["P3", "K3", "D2", "G2"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
   },
   {

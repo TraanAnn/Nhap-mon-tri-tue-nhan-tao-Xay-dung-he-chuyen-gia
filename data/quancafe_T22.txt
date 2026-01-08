@@ -3,79 +3,79 @@
     "conditions": ["P2", "K1", "D1", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K1", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K1", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K1", "D9", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có không gian thoáng mát rộng rãi, có tổ chức Acostics và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K7", "D1", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K7", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K7", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K7", "D9", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, thuộc loại cafe gia đình, có tổ chức Acostics và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K9", "D1", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K9", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K9", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K9", "D9", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có view đẹp, có tổ chức Acostics và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K10", "D1", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K10", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K10", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K10", "D9", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có sân vườn, có tổ chức Acostics và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K12", "D1", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có chỗ decor chụp ảnh theo concept, cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K12", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có chỗ decor chụp ảnh theo concept, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K12", "D6", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có chỗ decor chụp ảnh theo concept, nhưng không có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   },
-{
+  {
     "conditions": ["P2", "K12", "D9", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 3, có chỗ decor chụp ảnh theo concept, có tổ chức Acostics và có giá dao động dưới 50.000 thì bạn nên chọn The Gỗ Coffee & Tea."
   }

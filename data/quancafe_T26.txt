@@ -3,95 +3,95 @@
     "conditions": ["P11", "K1", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có không gian thoáng mát rộng rãi, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K1", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có không gian thoáng mát rộng rãi, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K1", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K1", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có không gian thoáng mát rộng rãi, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K4", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có khu vui chơi dành cho trẻ em, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K4", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có khu vui chơi dành cho trẻ em, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K4", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K4", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có khu vui chơi dành cho trẻ em, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K7", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, thuộc loại cafe gia đình, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K7", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, thuộc loại cafe gia đình, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K7", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, thuộc loại cafe gia đình, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K7", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, thuộc loại cafe gia đình, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K9", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có view đẹp, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K9", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có view đẹp, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K9", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có view đẹp, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K9", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có view đẹp, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K10", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có sân vườn, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K10", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có sân vườn, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K10", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có sân vườn, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K10", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có sân vườn, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K12", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có chỗ decor chụp ảnh theo concept, nhưng không cho phép mang thú cưng vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K12", "D3", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có chỗ decor chụp ảnh theo concept, cho phép mang đồ ăn từ bên ngoài vào và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K12", "D5", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có chỗ decor chụp ảnh theo concept, có đồ ăn nhẹ và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   },
-{
+  {
     "conditions": ["P11", "K12", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở thị trấn Long Hồ, có chỗ decor chụp ảnh theo concept, nhưng không có món chính và có giá dao động dưới 50.000 thì bạn nên chọn Thảo mộc."
   }
