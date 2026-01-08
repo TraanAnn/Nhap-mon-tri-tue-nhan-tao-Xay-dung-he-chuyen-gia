@@ -137,6 +137,8 @@ CAFE_NAMES = {
     "T40": "Mộc Viên"
 }
 
+cafe_data = []   # Biến toàn cục lưu danh sách quán tìm được
+
 # ================== GUI ==================
 root = tk.Tk()
 root.title("Hệ chuyên gia gợi ý quán cà phê Vĩnh Long")
@@ -147,7 +149,6 @@ root.configure(bg="#ffffff")
 main_menu = tk.Frame(root, bg="#ffffff")
 main_menu.place(x=0, y=0, relwidth=1, relheight=1)
 
-# 
 menu_img_path = os.path.join("images", "manhinhchinh.png")
 if os.path.exists(menu_img_path):
     img = Image.open(menu_img_path).resize((root.winfo_screenwidth(), root.winfo_screenheight()))
@@ -197,47 +198,120 @@ tk.Button(btn_frame, text="XÓA", width=12, font=("Arial", 10, "bold")).grid(row
 tk.Button(btn_frame, text="QUAY LẠI", width=12, font=("Arial", 10, "bold"),
           command=lambda: [expert_frame.place_forget(), main_menu.place(x=0,y=0,relwidth=1,relheight=1)]).grid(row=0, column=2, padx=10)
 
-# Khu vực hiển thị kết quả
-result_frame = tk.LabelFrame(left, text="KẾT QUẢ GỢI Ý", font=("Arial", 12, "bold"), bg="#ffffff")
-result_frame.pack(fill="both", expand=True, pady=10)
-
-result_text = tk.Text(result_frame, wrap="word", font=("Arial", 11))
-result_text.pack(side="left", fill="both", expand=True)
-scroll = tk.Scrollbar(result_frame, command=result_text.yview)
-scroll.pack(side="right", fill="y")
-result_text.config(yscrollcommand=scroll.set, state="disabled")
-
 # Bên phải - ảnh quán
 right = tk.Frame(expert_frame, bg="#ffffff")
 right.place(relx=0.45, rely=0.02, relwidth=0.52, relheight=0.96)
 
-img_label = tk.Label(right, bg="#ffffff")
-img_label.pack(expand=True)
+img_label = tk.Label(right, bg="#ffffff")  # Bỏ bg xám + border debug
+img_label.pack(fill="both", expand=True)
 
-# ================== HIỂN THỊ ẢNH ==================
-def display_image(img_path):
-    if os.path.exists(img_path):
-        img = Image.open(img_path)
-        w = right.winfo_width()
-        h = right.winfo_height() - 100
-        if w < 50: w = 800
-        if h < 50: h = 600
-        img_ratio = img.width / img.height
-        frame_ratio = w / h
-        if img_ratio > frame_ratio:
-            new_w = w
-            new_h = int(w / img_ratio)
-        else:
-            new_h = h
-            new_w = int(h * img_ratio)
-        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
-        photo = ImageTk.PhotoImage(img)
-        img_label.config(image=photo)
-        img_label.image = photo
-        img_label.current_path = img_path
+# Khu vực hiển thị kết quả
+result_frame = tk.LabelFrame(left, text="KẾT QUẢ GỠI Ý", font=("Arial", 12, "bold"), bg="#ffffff")
+result_frame.pack(fill="both", expand=True, pady=10)
+
+# --- Phần chọn quán ---
+selection_subframe = tk.Frame(result_frame, bg="#ffffff")
+selection_subframe.pack(fill="x", pady=5)
+
+count_label = tk.Label(selection_subframe, text="", font=("Arial", 12, "bold"), bg="#ffffff", fg="#4CAF50")
+count_label.pack(anchor="w", padx=10)
+
+tk.Label(selection_subframe, text="Chọn quán để xem chi tiết:", font=("Arial", 11, "bold"), bg="#ffffff").pack(anchor="w", padx=10)
+
+cb_result_cafe = ttk.Combobox(selection_subframe, state="readonly", font=("Arial", 11))
+cb_result_cafe.pack(fill="x", padx=10, pady=5)
+
+# --- Phần text chi tiết ---
+text_subframe = tk.Frame(result_frame, bg="#ffffff")
+text_subframe.pack(fill="both", expand=True)
+
+result_text = tk.Text(text_subframe, wrap="word", font=("Arial", 11))
+result_text.pack(side="left", fill="both", expand=True)
+scroll = tk.Scrollbar(text_subframe, command=result_text.yview)
+scroll.pack(side="right", fill="y")
+result_text.config(yscrollcommand=scroll.set, state="disabled")
+
+# ================== HÀM on_cafe_select ==================
+def on_cafe_select(event=None):
+    selected_name = cb_result_cafe.get()
+    if not selected_name or not cafe_data:
+        return
+    selected = next((c for c in cafe_data if c["name"] == selected_name), None)
+    if not selected:
+        return
+
+    result_text.config(state="normal")
+    result_text.delete(1.0, tk.END)
+    result_text.insert(tk.END, f"🎯 {selected['name']}\n\n")
+    result_text.insert(tk.END, selected['desc'])
+    result_text.config(state="disabled")
+    result_text.see(1.0)
+
+    # Tìm ảnh với nhiều định dạng
+    code = selected["code"]
+    display_image_by_code(code)
+    
+    # Force resize nhiều lần
+    root.after(100, lambda: on_resize(None))
+    root.after(300, lambda: on_resize(None))
+    root.after(600, lambda: on_resize(None))
+
+cb_result_cafe.bind("<<ComboboxSelected>>", on_cafe_select)
+
+# ================== HIỂN THỊ ẢNH (hỗ trợ nhiều định dạng) ==================
+def display_image_by_code(code):
+    extensions = ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG']
+    img_path = None
+    for ext in extensions:
+        potential_path = os.path.join("images", code + ext)
+        if os.path.exists(potential_path):
+            img_path = potential_path
+            break
+    
+    if img_path:
+        print(f"Đã tìm thấy ảnh: {img_path}")
+        display_image(img_path)
     else:
-        img_label.config(image="")
+        print(f"Không tìm thấy ảnh nào cho mã {code}")
+        img_label.config(image="", text=f"Không có ảnh\ncho {code}", fg="gray")
         img_label.current_path = None
+
+def display_image(img_path):
+    print(f"Đang load ảnh: {img_path}")
+    print(f"Kích thước frame right hiện tại: {right.winfo_width()} x {right.winfo_height()}")
+
+    # Force update layout
+    root.update_idletasks()
+    root.update()
+
+    w = right.winfo_width()
+    h = right.winfo_height()
+
+    if w <= 1 or h <= 1:
+        w = int(root.winfo_screenwidth() * 0.5)
+        h = int(root.winfo_screenheight() * 0.8)
+
+    w = max(w, 600)
+    h = max(h, 500)
+
+    img = Image.open(img_path)
+    img_ratio = img.width / img.height
+    frame_ratio = w / h
+
+    if img_ratio > frame_ratio:
+        new_w = w
+        new_h = int(w / img_ratio)
+    else:
+        new_h = h
+        new_w = int(h * img_ratio)
+
+    img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+    photo = ImageTk.PhotoImage(img)
+    img_label.config(image=photo, text="")
+    img_label.image = photo
+    img_label.current_path = img_path
+
+    print(f"Đã load ảnh thành công: {new_w}x{new_h}")
 
 # ================== TÌM KIẾM ==================
 def find():
@@ -247,61 +321,84 @@ def find():
     if cb_khonggian.get(): facts.add(MAP["KHÔNG GIAN"][cb_khonggian.get()])
     if cb_dichvu.get(): facts.add(MAP["DỊCH VỤ"][cb_dichvu.get()])
 
+    global cafe_data
+    cafe_data = []
+
     result_text.config(state="normal")
     result_text.delete(1.0, tk.END)
-    img_label.config(image="")
+    result_text.config(state="disabled")
+    img_label.config(image="", text="")
+    cb_result_cafe.set("")
+    cb_result_cafe['values'] = ()
+    count_label.config(text="")
 
     if len(facts) < 4:
+        result_text.config(state="normal")
         result_text.insert(tk.END, "⚠️ Vui lòng chọn đủ 4 tiêu chí:\n• Vị trí\n• Giá\n• Không gian\n• Dịch vụ")
         result_text.config(state="disabled")
         return
 
     matched = [r for r in RULES if set(r["conditions"]).issubset(facts)]
     if not matched:
+        result_text.config(state="normal")
         result_text.insert(tk.END, "😔 Không tìm thấy quán cà phê nào phù hợp với yêu cầu của bạn.")
         result_text.config(state="disabled")
         return
 
-    # Ưu tiên luật cụ thể nhất
     matched.sort(key=lambda x: len(x["conditions"]), reverse=True)
-    best = matched[0]
-    best_code = best["result"]  # ví dụ T2
-    best_name = CAFE_NAMES.get(best_code, best_code)
 
-    result_text.insert(tk.END, f"🎯 GỢI Ý TỐT NHẤT:\n{best_name}\n\n")
+    seen_codes = set()
+    for r in matched:
+        code = r["result"]
+        if code in seen_codes:
+            continue
+        seen_codes.add(code)
 
-    # Tìm mô tả chi tiết từ file JSON
-    descs = DESCRIPTIONS_JSON.get(best_code, [])
-    found = False
-    for d in descs:
-        if set(d["conditions"]) == set(best["conditions"]):
-            result_text.insert(tk.END, d["description"] + "\n\n")
-            found = True
-            break
-    if not found:
-        result_text.insert(tk.END, f"Luật áp dụng: {' ^ '.join(best['conditions'])} -> {best_code}\n")
+        name = CAFE_NAMES.get(code, code)
 
-    # Các lựa chọn khác
-    if len(matched) > 1:
-        result_text.insert(tk.END, "\nCác quán khác cũng phù hợp:\n")
-        for r in matched[1:]:
-            name = CAFE_NAMES.get(r["result"], r["result"])
-            result_text.insert(tk.END, f"• {name}\n")
+        descs = DESCRIPTIONS_JSON.get(code, [])
+        found_desc = "Không có mô tả chi tiết cho trường hợp này."
+        for d in descs:
+            if set(d.get("conditions", [])) == set(r["conditions"]):
+                found_desc = d.get("description", "") + "\n"
+                break
+        if found_desc == "Không có mô tả chi tiết cho trường hợp này.":
+            found_desc = f"Luật áp dụng: {' ^ '.join(r['conditions'])} -> {name}\n"
 
-    # Hiển thị ảnh
-    img_path = os.path.join("images", best_code + ".jpg")  # ví dụ T2.jpg
-    display_image(img_path)
+        cafe_data.append({
+            "name": name,
+            "code": code,
+            "desc": found_desc,
+            "priority": len(r["conditions"])
+        })
 
-    result_text.config(state="disabled")
-    result_text.see(1.0)
+    cafe_data.sort(key=lambda x: x["priority"], reverse=True)
 
+    cafe_names = [c["name"] for c in cafe_data]
+    cb_result_cafe['values'] = cafe_names
+
+    if cafe_data:
+        count_label.config(text=f"Tìm thấy {len(cafe_data)} quán phù hợp (ưu tiên từ cao đến thấp):")
+        cb_result_cafe.set(cafe_names[0])
+        on_cafe_select()
+    else:
+        result_text.config(state="normal")
+        result_text.insert(tk.END, "😔 Không tìm thấy quán cà phê nào phù hợp với yêu cầu của bạn.")
+        result_text.config(state="disabled")
+
+# ================== XÓA ==================
 def clear():
     for cb in [cb_vitri, cb_gia, cb_khonggian, cb_dichvu]:
         cb.set("")
     result_text.config(state="normal")
     result_text.delete(1.0, tk.END)
     result_text.config(state="disabled")
-    img_label.config(image="")
+    img_label.config(image="", text="")
+    cb_result_cafe.set("")
+    cb_result_cafe['values'] = ()
+    count_label.config(text="")
+    global cafe_data
+    cafe_data = []
 
 # Gắn lệnh cho nút
 for w in btn_frame.winfo_children():
@@ -310,10 +407,12 @@ for w in btn_frame.winfo_children():
     elif w.cget("text") == "XÓA":
         w.config(command=clear)
 
-# Resize ảnh khi thay đổi cửa sổ
-def on_resize(event):
+# ================== RESIZE ẢNH ==================
+def on_resize(event=None):
+    root.update_idletasks()
     if hasattr(img_label, 'current_path') and img_label.current_path:
         display_image(img_label.current_path)
+
 right.bind("<Configure>", on_resize)
 img_label.current_path = None
 
