@@ -1,102 +1,102 @@
 [
   {
     "conditions": ["P3", "K8", "D9", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K8", "D5", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K8", "D8", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K8", "D2", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K8", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là cafe thư giãn, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K1", "D9", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K1", "D5", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K1", "D8", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K1", "D2", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K1", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K9", "D9", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K9", "D5", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K9", "D8", "G1"], 
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K9", "D2", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K9", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K5", "D9", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K5", "D5", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K5", "D8", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K5", "D2", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K5", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D9", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có tổ chức Acoustic và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D5", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee"
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee"
   },
   {
     "conditions": ["P3", "K11", "D8", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D2", "G1"], 
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Yolo Coffee."
   }
 ]
