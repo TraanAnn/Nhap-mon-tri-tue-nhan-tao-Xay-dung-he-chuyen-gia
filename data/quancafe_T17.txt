@@ -71,7 +71,7 @@
     "conditions": ["P3", "K5", "D8", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
   },
-  
+  {
     "conditions": ["P3", "K5", "D2", "G1"],
     "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Yole Coffee."
   },
