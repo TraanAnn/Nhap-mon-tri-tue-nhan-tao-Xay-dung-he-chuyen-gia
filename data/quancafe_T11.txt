@@ -1,0 +1,50 @@
+[
+  {
+    "conditions": ["P3", "K1", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê."
+  },
+  {
+    "conditions": ["P3", "K1", "D5", "G1"], 
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê."
+  },
+  {
+    "conditions": ["P3", "K1", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K1", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K7", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K7", "D5", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K7", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K7", "D4", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K9", "D2", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  },
+  {
+    "conditions": ["P3", "K9", "D5", "G1"], 
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê."
+  },
+  {
+    "conditions": ["P3", "K9", "D8", "G1"],
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê."
+  },
+  {
+    "conditions": ["P3", "K9", "D4", "G1"],
+    "description": "12. Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe gia đình, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Sky cà phê"
+  }
+]
