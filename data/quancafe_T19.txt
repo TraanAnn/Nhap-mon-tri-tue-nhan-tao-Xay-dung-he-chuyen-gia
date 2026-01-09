@@ -1,86 +1,86 @@
 [
   {
     "conditions": ["P3", "K8", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K8", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K8", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, là quán cafe thư giãn, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K1", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K1", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K1", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có không gian thoáng mát rộng rãi, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K3", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K3", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K3", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có hồ cá Koi, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K9", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K9", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K9", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K10", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K10", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K10", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có sân vườn, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K12", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K12", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K12", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có chổ decor chụp ảnh theo concept, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K5", "D5", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có đồ ăn nhẹ và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K5", "D7", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có món chính và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, có món chính và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   },
   {
     "conditions": ["P3", "K5", "D2", "G2"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Robusta Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, không có khu vui chơi dành cho trẻ em, không cho phép mang thú cưng vào và có giá nước từ 50.000 đến 100.000 thì bạn nên chọn Robusta Coffee."
   }
 ]
