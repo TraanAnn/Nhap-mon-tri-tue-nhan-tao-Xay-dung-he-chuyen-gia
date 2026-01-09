@@ -37,14 +37,14 @@
   },
   {
     "conditions": ["P3", "K11", "D8", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không có món chính và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D2", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang thú cưng vào và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
   },
   {
     "conditions": ["P3", "K11", "D4", "G1"],
-    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có view đẹp, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
+    "description": "Nếu bạn muốn đến một quán cafe ở Phường 4, có phòng máy lạnh, không cho phép mang đồ ăn từ bên ngoài và có giá nước dưới 50.000 thì bạn nên chọn Catimo Coffee."
   }
 ]
